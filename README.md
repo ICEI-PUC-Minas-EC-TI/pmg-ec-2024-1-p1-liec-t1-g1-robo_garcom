@@ -1,29 +1,29 @@
-# TÍTULO DO PROJETO
+# Robo Garçom
 
-`CAMPUS/UNIDADE`
+`Coração Eucarístico`
 
-`CURSO`
+`Engenharia de computação`
 
-`SEMESTRE`
+`SEMESTRE - 1`
 
-`DISCIPLINA`
+` Laboratório de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Pedro Melo Teixeira
+* Thiago Pena Cateb
+* Joana Gonçalves de Jesus Batista Vieira
+* Lamoni Leal Pereira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso projeto é um robô seguidor de linha que também possui a capacidade de pegar objetos e arrastá-los pela mesa. Inspirado na cena do "Rick and Morty" pelo qual um robô passa manteiga, nosso robô segue uma linha de fita adesiva enquanto utiliza garras para agarrar objetos ao longo do caminho. Ele pode então mover esses objetos para diferentes locais na mesa, combinando funcionalidades de seguimento de linha com manipulação de objetos. Essa abordagem integrada oferece uma solução versátil para automação de tarefas simples em um ambiente controlado.
+
 
 # Código (do arduino ou esp32)
 
