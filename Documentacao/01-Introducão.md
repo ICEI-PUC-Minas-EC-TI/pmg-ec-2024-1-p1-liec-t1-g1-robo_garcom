@@ -2,8 +2,6 @@
 
 Para a construção do "Butter Robot", nos inspiramos na série "Rick and Morty", especificamente no episódio 9 da primeira temporada, intitulado "Something Ricked This Way Comes" (RICK AND MORTY, 2014). Nesse episódio, é introduzido um pequeno robô cuja única função é passar manteiga.
 
-Referência completa no final do trabalho:
-RICK AND MORTY. Something Ricked This Way Comes. Episódio 9, Temporada 1. Direção: Bryan Newton. Roteiro: Tom Kauffman. Produção: Justin Roiland, Dan Harmon, James A. Fino, Joe Russo II. [S.l.]: Adult Swim, 2014. Exibido na televisão a cabo.
 
 ## Problema
 
