@@ -1,7 +1,6 @@
 # Introdução
 
-Para a construção do "Butter Robot", nos inspiramos na série "Rick and Morty", especificamente no episódio 9 da primeira temporada, intitulado "Something Ricked This Way Comes" (RICK AND MORTY, 2014). Nesse episódio, é introduzido um pequeno robô cuja única função é passar manteiga.
-
+Nosso projeto é um robô seguidor de linha que também possui a capacidade de pegar objetos e arrastá-los pela mesa. Inspirado na cena do "Rick and Morty" pelo qual um robô passa manteiga, nosso robô segue uma linha de fita adesiva enquanto utiliza garras para agarrar objetos ao longo do caminho. Ele pode então mover esses objetos para diferentes locais na mesa, combinando funcionalidades de seguimento de linha com manipulação de objetos. Essa abordagem integrada oferece uma solução versátil para automação de tarefas simples em um ambiente controlado.
 
 ## Problema
 
