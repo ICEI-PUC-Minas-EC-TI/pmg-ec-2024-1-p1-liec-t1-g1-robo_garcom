@@ -6,11 +6,8 @@ Nosso projeto é um robô seguidor de linha que também possui a capacidade de p
 Dificuldade em locomover objetos em uma mesa grande 
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O primeiro objetivo foi conseguir fazer o robo andar pelo ambiente com os sensores infravermelhos.
+O segundo objetivo foi fazer com que o robo conseguisse agarrar o objeto pela mesa e conseguir arrasta-lo pelo mesmo.
  
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+Os usuários do nosso projeto serão pessoas com um perfil diversificado, mas com interesses em comum: são fãs da série Rick and Morty e indivíduos que enfrentam dificuldades em manipular objetos manualmente.
