@@ -3,11 +3,12 @@
 Nosso projeto é um robô seguidor de linha que também possui a capacidade de pegar objetos e arrastá-los pela mesa. Inspirado na cena do "Rick and Morty" pelo qual um robô passa manteiga, nosso robô segue uma linha de fita adesiva enquanto utiliza garras para agarrar objetos ao longo do caminho. 
 
 ## Problema
-Dificuldade em locomover objetos em uma mesa grande 
+Transportar objetos de lugares em lugares
 
 ## Objetivos
-O primeiro objetivo foi conseguir fazer o robo andar pelo ambiente com os sensores infravermelhos.
-O segundo objetivo foi fazer com que o robo conseguisse agarrar o objeto pela mesa e conseguir arrasta-lo pelo mesmo.
- 
+O primeiro objetivo foi tentar fazer os motores rodarem.
+O segundo foi conseguir fazer com que os leitores de infravermelho conseguissem identificar as fitas pelo chao.
+A terceira, e final, foi conseguir fazer com que o robo virasse autonomo.
+
 ## Público-Alvo
-Os usuários do nosso projeto serão pessoas com um perfil diversificado, mas com interesses em comum: são fãs da série Rick and Morty e indivíduos que enfrentam dificuldades em manipular objetos manualmente.
+O publico alvo do nosso projeto pode ser, de forma massificada, um robo que transporta objetos em um ambiente plano.
