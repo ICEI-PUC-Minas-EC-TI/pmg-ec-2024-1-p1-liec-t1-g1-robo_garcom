@@ -30,7 +30,8 @@ Por fim, transformamos o robo em um seguidor de linha incrivel!
 
 
 ### Interface
-https://docs.google.com/document/d/1lK-IIA34r9Y5gn4E4mk36VldAPTISrEc2uWal3ZAWvc/edit?usp=sharing
+![Telas do App](https://github.com/ICEI-PUC-Minas-EC-TI/pmg-ec-2024-1-p1-liec-t1-g1-robo_garcom/assets/63082391/0fddba71-640a-4add-9d34-decaa252d90d)
+
 
 ### Código
 
