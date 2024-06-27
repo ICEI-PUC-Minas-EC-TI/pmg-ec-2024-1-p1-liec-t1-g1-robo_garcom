@@ -26,8 +26,8 @@ Ademais, antes de terminarmos tudo, percebemos que nossa ideia era muito mais co
 Por fim, transformamos o robo em um seguidor de linha incrivel!
 
 ## Desenvolvimento do Aplicativo
-### RM.apk
 
+### RM.apk
 
 ### Interface
 ![Telas do App](https://github.com/ICEI-PUC-Minas-EC-TI/pmg-ec-2024-1-p1-liec-t1-g1-robo_garcom/assets/63082391/0fddba71-640a-4add-9d34-decaa252d90d)
@@ -35,7 +35,8 @@ Por fim, transformamos o robo em um seguidor de linha incrivel!
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
+![Codigo do App](https://github.com/ICEI-PUC-Minas-EC-TI/pmg-ec-2024-1-p1-liec-t1-g1-robo_garcom/assets/63082391/baa12373-830d-499e-abfe-c02dacfa7b3e)
+
 
 ## Desenvolvimento do Hardware
 
