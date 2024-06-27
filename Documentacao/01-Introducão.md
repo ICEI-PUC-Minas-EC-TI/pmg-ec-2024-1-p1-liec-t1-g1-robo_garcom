@@ -1,6 +1,6 @@
 # Introdução
 
-Nosso projeto é um robô seguidor de linha que também possui a capacidade de pegar objetos e arrastá-los pela mesa. Inspirado na cena do "Rick and Morty" pelo qual um robô passa manteiga, nosso robô segue uma linha de fita adesiva enquanto utiliza garras para agarrar objetos ao longo do caminho. Ele pode então mover esses objetos para diferentes locais na mesa, combinando funcionalidades de seguimento de linha com manipulação de objetos. Essa abordagem integrada oferece uma solução versátil para automação de tarefas simples em um ambiente controlado.
+Nosso projeto é um robô seguidor de linha que também possui a capacidade de pegar objetos e arrastá-los pela mesa. Inspirado na cena do "Rick and Morty" pelo qual um robô passa manteiga, nosso robô segue uma linha de fita adesiva enquanto utiliza garras para agarrar objetos ao longo do caminho. 
 
 ## Problema
 Dificuldade em locomover objetos em uma mesa grande 
