@@ -21,11 +21,9 @@ Inicialmente, dedicamos cerca de três semanas para planejar meticulosamente cad
 
 Na segunda etapa do processo, focamos na programação e no desenvolvimento de múltiplos protótipos utilizando o Tinkercad. Essa plataforma nos permitiu simular e testar virtualmente o funcionamento do robô, refinando cada aspecto do código para garantir um desempenho preciso e eficiente.
 
-Por fim, na terceira etapa, integramos todos os componentes físicos e virtuais do projeto. Consolidamos os resultados obtidos nas etapas anteriores, ajustando o código e documentando meticulosamente cada passo no GitHub. Essa documentação não apenas registrou nosso progresso, mas também serviu como um recurso valioso para futuras referências e possíveis melhorias.
+Ademais, antes de terminarmos tudo, percebemos que nossa ideia era muito mais complicada do que pretendiamos, entao decidimos mudar o trabalho para algo mais simples, e tranformar o robo em um seguidor de linha.
 
-Ao longo desse processo, enfrentamos desafios e aprendemos lições importantes sobre trabalho em equipe, resolução de problemas e gerenciamento de projetos. O resultado final não foi apenas um robô funcional, mas também uma conquista coletiva que demonstrou nossa dedicação e habilidades técnicas.
-
-Em suma, o desenvolvimento deste projeto não apenas nos permitiu realizar um trabalho significativo inspirado na cultura pop, mas também nos proporcionou uma experiência enriquecedora e gratificante no campo da engenharia e da tecnologia.
+Por fim, transformamos o robo em um seguidor de linha incrivel!
 
 ## Desenvolvimento do Aplicativo
 
