@@ -22,7 +22,7 @@
 
 ## Resumo
 
-Nosso projeto é um robô seguidor de linha que também possui a capacidade de pegar objetos e arrastá-los pela mesa. Inspirado na cena do "Rick and Morty" pelo qual um robô passa manteiga, nosso robô segue uma linha de fita adesiva enquanto utiliza garras para agarrar objetos ao longo do caminho. Ele pode então mover esses objetos para diferentes locais na mesa, combinando funcionalidades de seguimento de linha com manipulação de objetos. Essa abordagem integrada oferece uma solução versátil para automação de tarefas simples em um ambiente controlado.
+Nosso projeto para a disciplina de Laboratório de Introdução à Engenharia de Computação consiste em um robô seguidor de linha utilizando componentes avançados como ESP32, dois motores, sistema de alimentação por baterias, uma ponte H e dois sensores infravermelhos. Inspirado nos sofisticados robôs seguidores de linha encontrados na indústria, nosso protótipo combina a precisão da tecnologia moderna com a acessibilidade de um projeto acadêmico. Este robô não apenas demonstra o potencial do ESP32 na robótica, mas também oferece uma plataforma para explorar conceitos fundamentais de controle de motores, sensores de linha e integração de sistemas eletrônicos, proporcionando uma experiência prática e educativa aos estudantes envolvidos no desenvolvimento do projeto.
 
 
 # Código (do arduino ou esp32)
