@@ -6,7 +6,7 @@
 
 `SEMESTRE - 1`
 
-` Laboratório de Introdução à Engenharia de Computação`
+` Laboratório de Introdução à Engenharia de Computação`, `Algoritmos e Estruturas de Dados I`, `Introdução à Computação`
 
 
 ## Integrantes
@@ -19,6 +19,8 @@
 ## Orientador
 
 * Felipe Augusto Lara Soares
+* Sandro Jerônimo de Almeida
+* Naísses Zóia Lima
 
 ## Resumo
 
