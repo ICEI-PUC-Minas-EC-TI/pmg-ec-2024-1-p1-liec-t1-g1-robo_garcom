@@ -16,7 +16,7 @@
 * Joana Gonçalves de Jesus Batista Vieira
 * Lamoni Leal Pereira
 
-## Orientador
+## Orientadores
 
 * Felipe Augusto Lara Soares
 * Sandro Jerônimo de Almeida
